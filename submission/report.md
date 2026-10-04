@@ -1,4 +1,4 @@
-Tôi sử dụng AWS, region us-east-1, Compute Node t3.medium (2 vCPU, 4 GB RAM)
+Tôi sử dụng AWS, region us-east-1, Compute Node t3.medium (2 vCPU, 4 GB RAM), source commit 40f507acbbfba207e6cee0e77a31604bae74a3a5.
 
 Dataset Credit Card Fraud Detection có 284,807 dòng. Dữ liệu được tách 80% train+validation / 20% test với stratify=y; phần train+validation tiếp tục được tách validation với tỷ lệ 0.2. Seed là 42.
 
