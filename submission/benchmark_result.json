@@ -1,0 +1,19 @@
+{
+  "data_load_seconds": 1.891006612999945,
+  "split": {
+    "test_size": 0.2,
+    "validation_size_of_train": 0.2
+  },
+  "seed": 42,
+  "training_seconds": 2.807373215000098,
+  "best_iteration": 1,
+  "auc_roc": 0.9390578702640313,
+  "accuracy": 0.9992099996488887,
+  "f1": 0.7692307692307693,
+  "precision": 0.7731958762886598,
+  "recall": 0.7653061224489796,
+  "latency_1_row_ms": 0.8065980450005554,
+  "latency_runs": 1000,
+  "throughput_1000_rows_per_second": 965260.2824433431,
+  "throughput_batch_size": 1000
+}
