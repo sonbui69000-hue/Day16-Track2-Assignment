@@ -10,6 +10,6 @@ Latency dự đoán 1 dòng là 0.807 ms, đo sau warm-up và lấy trung bình 
 
 Khi kiểm tra tài nguyên sau benchmark, CPU gần như idle (100% idle, load average 0.01/0.07/0.04). RAM sử dụng khoảng 231 MiB / 3.7 GiB, còn 3.3 GiB available, không sử dụng swap.
 
-Billing tại thời điểm kiểm tra chưa cập nhật. Ảnh trạng thái hiện tại được lưu và Billing sẽ được kiểm tra lại sau do dữ liệu AWS có độ trễ.
+Billing đã có bằng chứng trong screenshots/billing.png
 
 Tôi đã lưu kết quả benchmark và bằng chứng cần thiết, sau đó chạy terraform destroy lúc 10:31 ngày 04/10/2026 để dọn dẹp tài nguyên AWS. 
